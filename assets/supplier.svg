@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<title>Supplier TCO Lab — Synthetic-data portfolio prototype</title>
+<rect width="1200" height="675" fill="#F5F3EC"/>
+<rect x="0" y="0" width="9" height="675" rx="0" fill="#39776C" stroke="none" stroke-width="1"/>
+<text x="58" y="65.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#39776C">04 / SUPPLY CHAIN ANALYTICS</text>
+<text x="55" y="210.98000000000002" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#1C3046">Supplier</text>
+<text x="55" y="287.98" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#1C3046">TCO Lab</text>
+<text x="58" y="385.49" font-family="Georgia, serif" font-size="31" font-weight="400" font-style="italic" fill="#39776C">Make trade-offs visible.</text>
+<text x="58" y="438.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" fill="#1C3046">Lifecycle cost, uncertainty &amp; risk</text>
+<circle cx="945" cy="265" r="55" fill="none" stroke="#C4D1C7" stroke-width="2"/>
+<circle cx="945" cy="265" r="92" fill="none" stroke="#C4D1C7" stroke-width="2"/>
+<circle cx="945" cy="265" r="132" fill="none" stroke="#C4D1C7" stroke-width="2"/>
+<polyline points="788,265 1101,265" fill="none" stroke="#C4D1C7" stroke-width="1"/>
+<polyline points="945,113 945,417" fill="none" stroke="#C4D1C7" stroke-width="1"/>
+<polyline points="864,313 922,200 1020,242 1045,334 864,313" fill="none" stroke="#39776C" stroke-width="3"/>
+<circle cx="864" cy="313" r="6" fill="#39776C" stroke="none" stroke-width="2"/>
+<circle cx="922" cy="200" r="6" fill="#39776C" stroke="none" stroke-width="2"/>
+<circle cx="1020" cy="242" r="6" fill="#39776C" stroke="none" stroke-width="2"/>
+<circle cx="1045" cy="334" r="6" fill="#39776C" stroke="none" stroke-width="2"/>
+<polyline points="58,526 1142,526" fill="none" stroke="#C7CEC5" stroke-width="1"/>
+<text x="58" y="577.22" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" font-style="normal" fill="#39776C">SYNTHETIC DATA / PORTFOLIO PROTOTYPE</text>
+<text x="58" y="623.59" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" font-style="normal" fill="#1C3046">Amelie (Aimiao) Su</text>
+<text x="942" y="622.01" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" font-style="normal" fill="#1C3046">VIEW PROJECT</text>
+<polyline points="1102,623 1116,609 1103,609" fill="none" stroke="#1C3046" stroke-width="2"/>
+<polyline points="1116,609 1116,622" fill="none" stroke="#1C3046" stroke-width="2"/>
+</svg>

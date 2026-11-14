@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<title>B2B Customer Insights — Synthetic-data portfolio prototype</title>
+<rect width="1200" height="675" fill="#F5F3EC"/>
+<rect x="0" y="0" width="9" height="675" rx="0" fill="#39776C" stroke="none" stroke-width="1"/>
+<text x="58" y="65.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#39776C">02 / CUSTOMER ANALYTICS</text>
+<text x="55" y="210.98000000000002" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#1C3046">B2B Customer</text>
+<text x="55" y="287.98" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#1C3046">Insights</text>
+<text x="58" y="385.49" font-family="Georgia, serif" font-size="31" font-weight="400" font-style="italic" fill="#39776C">From needs to value.</text>
+<text x="58" y="438.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" fill="#1C3046">Segmentation &amp; customer journeys</text>
+<circle cx="874" cy="219" r="70" fill="none" stroke="#C4D1C7" stroke-width="2"/>
+<circle cx="999" cy="219" r="70" fill="none" stroke="#C4D1C7" stroke-width="2"/>
+<circle cx="937" cy="327" r="70" fill="none" stroke="#C4D1C7" stroke-width="2"/>
+<circle cx="874" cy="219" r="13" fill="#39776C" stroke="none" stroke-width="2"/>
+<polyline points="852,248 896,248" fill="none" stroke="#39776C" stroke-width="3"/>
+<circle cx="999" cy="219" r="13" fill="#39776C" stroke="none" stroke-width="2"/>
+<polyline points="977,248 1021,248" fill="none" stroke="#39776C" stroke-width="3"/>
+<circle cx="937" cy="327" r="13" fill="#39776C" stroke="none" stroke-width="2"/>
+<polyline points="915,356 959,356" fill="none" stroke="#39776C" stroke-width="3"/>
+<circle cx="936" cy="255" r="9" fill="#39776C" stroke="none" stroke-width="2"/>
+<polyline points="58,526 1142,526" fill="none" stroke="#C7CEC5" stroke-width="1"/>
+<text x="58" y="577.22" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" font-style="normal" fill="#39776C">SYNTHETIC DATA / PORTFOLIO PROTOTYPE</text>
+<text x="58" y="623.59" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" font-style="normal" fill="#1C3046">Amelie (Aimiao) Su</text>
+<text x="942" y="622.01" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" font-style="normal" fill="#1C3046">VIEW PROJECT</text>
+<polyline points="1102,623 1116,609 1103,609" fill="none" stroke="#1C3046" stroke-width="2"/>
+<polyline points="1116,609 1116,622" fill="none" stroke="#1C3046" stroke-width="2"/>
+</svg>

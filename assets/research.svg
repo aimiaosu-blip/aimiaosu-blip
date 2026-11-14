@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<title>Research Review Workflow — Synthetic-data portfolio prototype</title>
+<rect width="1200" height="675" fill="#14263E"/>
+<rect x="0" y="0" width="9" height="675" rx="0" fill="#B8E2D0" stroke="none" stroke-width="1"/>
+<text x="58" y="65.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#B8E2D0">03 / AI WORKFLOW DESIGN</text>
+<text x="55" y="210.98000000000002" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#F5F3EC">Research Review</text>
+<text x="55" y="287.98" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#F5F3EC">Workflow</text>
+<text x="58" y="385.49" font-family="Georgia, serif" font-size="31" font-weight="400" font-style="italic" fill="#B8E2D0">Keep evidence in view.</text>
+<text x="58" y="438.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" fill="#F5F3EC">Retrieval, provenance &amp; human judgment</text>
+<rect x="823" y="177" width="178" height="157" rx="5" fill="#14263E" stroke="#B8E2D0" stroke-width="2"/>
+<polyline points="846,209 966,209" fill="none" stroke="#3F586D" stroke-width="2"/>
+<polyline points="846,235 951,235" fill="none" stroke="#3F586D" stroke-width="2"/>
+<polyline points="846,261 936,261" fill="none" stroke="#3F586D" stroke-width="2"/>
+<rect x="853" y="202" width="178" height="157" rx="5" fill="#14263E" stroke="#B8E2D0" stroke-width="2"/>
+<polyline points="876,234 996,234" fill="none" stroke="#3F586D" stroke-width="2"/>
+<polyline points="876,260 981,260" fill="none" stroke="#3F586D" stroke-width="2"/>
+<polyline points="876,286 966,286" fill="none" stroke="#3F586D" stroke-width="2"/>
+<rect x="883" y="227" width="178" height="157" rx="5" fill="#14263E" stroke="#B8E2D0" stroke-width="2"/>
+<polyline points="906,259 1026,259" fill="none" stroke="#3F586D" stroke-width="2"/>
+<polyline points="906,285 1011,285" fill="none" stroke="#3F586D" stroke-width="2"/>
+<polyline points="906,311 996,311" fill="none" stroke="#3F586D" stroke-width="2"/>
+<circle cx="1044" cy="353" r="44" fill="#B8E2D0" stroke="none" stroke-width="2"/>
+<polyline points="1023,354 1038,368 1066,337" fill="none" stroke="#14263E" stroke-width="5"/>
+<polyline points="58,526 1142,526" fill="none" stroke="#46586C" stroke-width="1"/>
+<text x="58" y="577.22" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" font-style="normal" fill="#B8E2D0">SYNTHETIC DATA / PORTFOLIO PROTOTYPE</text>
+<text x="58" y="623.59" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" font-style="normal" fill="#F5F3EC">Amelie (Aimiao) Su</text>
+<text x="942" y="622.01" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" font-style="normal" fill="#F5F3EC">VIEW PROJECT</text>
+<polyline points="1102,623 1116,609 1103,609" fill="none" stroke="#F5F3EC" stroke-width="2"/>
+<polyline points="1116,609 1116,622" fill="none" stroke="#F5F3EC" stroke-width="2"/>
+</svg>

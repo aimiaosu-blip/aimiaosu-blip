@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<title>AI Marketing Governance — Synthetic-data portfolio prototype</title>
+<rect width="1200" height="675" fill="#14263E"/>
+<rect x="0" y="0" width="9" height="675" rx="0" fill="#B8E2D0" stroke="none" stroke-width="1"/>
+<text x="58" y="65.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#B8E2D0">01 / MARKETING OPERATIONS</text>
+<text x="55" y="210.98000000000002" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#F5F3EC">AI Marketing</text>
+<text x="55" y="287.98" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" font-style="normal" fill="#F5F3EC">Governance</text>
+<text x="58" y="385.49" font-family="Georgia, serif" font-size="31" font-weight="400" font-style="italic" fill="#B8E2D0">Draft. Check. Review.</text>
+<text x="58" y="438.38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" fill="#F5F3EC">Human review &amp; traceable decisions</text>
+<rect x="804" y="204" width="77" height="77" rx="14" fill="none" stroke="#B8E2D0" stroke-width="2"/>
+<text x="831" y="249.91" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" fill="#B8E2D0">1</text>
+<polyline points="882,243 906,243" fill="none" stroke="#B8E2D0" stroke-width="2"/>
+<rect x="908" y="204" width="77" height="77" rx="14" fill="none" stroke="#B8E2D0" stroke-width="2"/>
+<text x="935" y="249.91" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" fill="#B8E2D0">2</text>
+<polyline points="986,243 1010,243" fill="none" stroke="#B8E2D0" stroke-width="2"/>
+<rect x="1012" y="204" width="77" height="77" rx="14" fill="none" stroke="#B8E2D0" stroke-width="2"/>
+<text x="1039" y="249.91" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" font-style="normal" fill="#B8E2D0">3</text>
+<polyline points="1118,285 1118,352 844,352 844,298" fill="none" stroke="#3F586D" stroke-width="2"/>
+<circle cx="844" cy="298" r="6" fill="#B8E2D0" stroke="none" stroke-width="2"/>
+<polyline points="58,526 1142,526" fill="none" stroke="#46586C" stroke-width="1"/>
+<text x="58" y="577.22" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" font-style="normal" fill="#B8E2D0">SYNTHETIC DATA / PORTFOLIO PROTOTYPE</text>
+<text x="58" y="623.59" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" font-style="normal" fill="#F5F3EC">Amelie (Aimiao) Su</text>
+<text x="942" y="622.01" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" font-style="normal" fill="#F5F3EC">VIEW PROJECT</text>
+<polyline points="1102,623 1116,609 1103,609" fill="none" stroke="#F5F3EC" stroke-width="2"/>
+<polyline points="1116,609 1116,622" fill="none" stroke="#F5F3EC" stroke-width="2"/>
+</svg>
