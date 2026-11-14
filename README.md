@@ -1,3 +1,5 @@
+<!-- Profile README for @aimiaosu-blip. Visual assets are stored in this repository. -->
+
 <p align="center">
   <img src="assets/profile-banner.svg" width="100%" alt="Amelie (Aimiao) Su — Applied AI. Clearer decisions. Business analytics across supply chain and marketing." />
 </p>
